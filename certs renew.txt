@@ -1,8 +1,8 @@
 CHECK THE EXPIRY OF CERTIFICATES
 
-kubeadm certs check-expiration
+sudo kubeadm certs check-expiration
 or
-kubeadm alpha certs check-expiration
+sudo kubeadm alpha certs check-expiration
 
 
 RENEW THE CERTIFICATES
